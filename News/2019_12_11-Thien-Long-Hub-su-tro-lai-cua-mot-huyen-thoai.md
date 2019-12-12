@@ -34,4 +34,4 @@ Fanpage: https://www.facebook.com/ThienLongHUB/
 
 Groups: https://www.facebook.com/groups/GroupThienLongHUB/
 
-Auto Game: Đang cập nhật
+Auto Game: https://www.facebook.com/ChickenAutoTLBB/

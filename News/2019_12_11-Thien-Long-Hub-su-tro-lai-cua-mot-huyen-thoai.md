@@ -21,8 +21,13 @@ Ngoài ra, Chúng tôi đảm bảo hệ thống máy chủ cực xịn xò ( kh
 Cuối cùng, rất mong mọi người giúp đỡ Team chia sẻ bài viết này và Tag Tên Bạn Bè rủ cùng chơi và trải nghiệm cảm giác ngày xưa. Nếu Tag được hơn 10 Người Team sẽ có 1 GIFTCODE để gửi tặng đến bằng hữu khi OPEN chính thức Server.
 
 ➖➖➖➖➖➖➖➖
+
 Trang Chủ: http://Thienlonghub.com
+
 Đăng Kí: http://psp.Thienlonghub.com
+
 Fanpage: https://www.facebook.com/ThienLongHUB/
+
 Groups: https://www.facebook.com/groups/GroupThienLongHUB/
+
 Auto Game: Đang cập nhật

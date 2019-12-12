@@ -4,6 +4,8 @@ date  :2019/12/11
 
 Thiên Long Hub chắc hẳn ai cũng nghĩ là ( pornhub hay là cái gì hub :v ). Nhưng tất cả đều sai rồi nha hihi Thiên Long Hub được 1 nhóm yêu game Thiên Long Bát Bộ từ những năm đầu tiên thời nhà phát hành FPT còn nắm quyền xây dựng và phát triển.
 
+![Thiên Long Hub – Sự Trở Lại Của Một Huyền Thoại](https://imgur.com/8be2iMY)
+
 Mục Đích và Nội Dung Server:
 
 ⏰Thời gian mở Test: 19h00 Ngày 13/12 ( thứ 6 ngày 13 đó )

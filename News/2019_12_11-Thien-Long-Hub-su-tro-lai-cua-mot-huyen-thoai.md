@@ -6,7 +6,7 @@ Thiên Long Hub chắc hẳn ai cũng nghĩ là ( pornhub hay là cái gì hub :
 
 ![Thiên Long Hub – Sự Trở Lại Của Một Huyền Thoại](https://i.imgur.com/8be2iMY.jpg)
 
-Mục Đích và Nội Dung Server:
+## Mục Đích và Nội Dung Server:
 
 ![](https://i.imgur.com/uRbQeHc.png)
 

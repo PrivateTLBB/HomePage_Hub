@@ -8,6 +8,7 @@ Thiên Long Hub chắc hẳn ai cũng nghĩ là ( pornhub hay là cái gì hub :
 
 Mục Đích và Nội Dung Server:
 
+![](https://i.imgur.com/uRbQeHc.png)
 ⏰Thời gian mở Test: 19h00 Ngày 13/12 ( thứ 6 ngày 13 đó )
 
 Nhận thấy nhu cầu game thủ muốn chơi lại TLBB của những năm 2007 – 2010 rất lớn và nhóm mình cũng rất đam mê tựa game này nên quyết định xây dựng và phát triển nó

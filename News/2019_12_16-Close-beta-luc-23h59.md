@@ -40,9 +40,9 @@ trên page mong các bằng hữu chú ý theo dõi page thường
 
 xuyên để cập nhật thông tin mới nhất !!!
 
-🍏Trang Chủ: Thienlonghub.com
+🍏Trang Chủ: http://thienlonghub.com/
 
-🍏Groups: fb.com/groups/GroupThienLongHUB/
+🍏Groups: https://www.facebook.com/groups/GroupThienLongHUB/
 
 🍏FanPage :https://www.facebook.com/ThienLongHUB/
 

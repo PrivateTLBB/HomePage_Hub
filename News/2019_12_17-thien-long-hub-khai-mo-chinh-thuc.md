@@ -52,8 +52,10 @@ Vì TLBB đã trải qua nhiều giai đoạn phát triển nên bọn mình s�
   + Cường hoá trang bị: drop Cường Hoá Tinh Hoa, Cường Hoá Lộ theo FPT.
 
 #Hoạt động - Phụ bản:
+
     Một thứ không thể thiếu của TLBB là các hoạt động phụ bản. Các hoạt động, phụ bản được đảm hoạt động trơn tru và chính xác nhất để đem lại cảm giác chơi game đích thực cho quý bằng hữu.
 
-#Sự kiện – Event: 
+#Sự kiện – Event:
+
     Tổ chức theo lịch trình hằng tuần. Không quá đặt nặng quà hay tranh đua. Yêu cầu Event phải dành cho mọi tầng lớp, không đặt nặng phần thưởng, không tạo áp lực tham gia vì phần thưởng. Event theo đúng nghĩa của event: tham gia để vui vẻ.
 

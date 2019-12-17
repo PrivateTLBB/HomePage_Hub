@@ -6,7 +6,7 @@ date  :16.12.2019
 
 🔥[THÔNG BÁO]🔥
 
-CHÍNH THỨC CLOSE ALPHA TEST LÚC 23H59 NGÀY 16/12/2019
+CHÍNH THỨC CLOSE TEST LÚC 23H59 NGÀY 16/12/2019
 
 Các bằng hữu thân mến,
 

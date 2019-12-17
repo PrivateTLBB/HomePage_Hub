@@ -1,4 +1,4 @@
-title :CHÍNH THỨC Close Alpha Test LÚC 23h59 NGÀY 16/12/2019
+title :CHÍNH THỨC Close Test LÚC 23h59 NGÀY 16/12/2019
 image :https://i.imgur.com/8be2iMY.jpg
 date  :16.12.2019
 

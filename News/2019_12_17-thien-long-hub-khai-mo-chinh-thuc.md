@@ -18,7 +18,7 @@ Vì TLBB đã trải qua nhiều giai đoạn phát triển nên bọn mình s�
     + LikeShare Fanpage: https: //link3.com
 
 ##Thông tin máy chủ:
-  -	Kinh nghiệm: Exp x1.5
+  -	Kinh nghiệm: Exp x 1.5
   -	Vật phẩm: Drop x 1.0
   -	Bảo dưỡng hằng ngày: 5:45 – 6:00 AM
 

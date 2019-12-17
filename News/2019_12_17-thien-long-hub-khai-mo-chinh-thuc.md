@@ -54,6 +54,7 @@ Một thứ không thể thiếu của TLBB là các hoạt động phụ bản.
 
 Tổ chức theo lịch trình hằng tuần. Không quá đặt nặng quà hay tranh đua. Yêu cầu Event phải dành cho mọi tầng lớp, không đặt nặng phần thưởng, không tạo áp lực tham gia vì phần thưởng. Event theo đúng nghĩa của event: tham gia để vui vẻ.
 
+#Địa Chỉ Liên Quan
 
 Trang Chủ: http://thienlonghub.com/
 

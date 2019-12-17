@@ -1,8 +1,8 @@
-title :Thiên Long Hub - Hồi Ức và Kỷ Niệm
-image : https://i.imgur.com/u4zpi3R.jpg
-date  :17.12.2019
+title:Thiên Long Hub - Hồi Ức và Kỷ Niệm
+image:https://i.imgur.com/u4zpi3R.jpg
+date:17.12.2019
 
-![](https://i.imgur.com/u4zpi3R.jpg)
+![Thiên Long Hub](https://i.imgur.com/u4zpi3R.jpg)
 
 Thiên Long Hub - Hồi Ức và Kỷ Niệm
 

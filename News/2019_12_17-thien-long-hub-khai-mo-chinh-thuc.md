@@ -1,14 +1,9 @@
 title:Thiên Long Hub - Khai Mở Chính Thức
 image:https://i.imgur.com/u4zpi3R.jpg
 date:17.12.2019
-#Thiên Long Hub - Hồi Ức và Kỷ Niệm
-(TLHUB)
 
 ![Thiên Long Hub](https://i.imgur.com/u4zpi3R.jpg)
 
-Trang Chủ: http://thienlonghub.com/
-Đăng Ký: http://psp.thienlonghub.com/register
-Tải Game: http://thienlonghub.com/Download
 
 Xin chào quý bằng hữu!
 Sau vài ngày chạy thử nghiệm, Bổn Môn nhận thấy máy chủ rất có tiềm năng phát triển lớn hơn nên đã đi đến quyết định khai mở chính thức. 
@@ -59,3 +54,9 @@ Một thứ không thể thiếu của TLBB là các hoạt động phụ bản.
 
 Tổ chức theo lịch trình hằng tuần. Không quá đặt nặng quà hay tranh đua. Yêu cầu Event phải dành cho mọi tầng lớp, không đặt nặng phần thưởng, không tạo áp lực tham gia vì phần thưởng. Event theo đúng nghĩa của event: tham gia để vui vẻ.
 
+
+Trang Chủ: http://thienlonghub.com/
+Đăng Ký: http://psp.thienlonghub.com/register/
+Tải Game: http://thienlonghub.com/Download/
+Fanpage: https://www.facebook.com/ThienLongHUB/
+Group FB: https://www.facebook.com/groups/GroupThienLongHUB/

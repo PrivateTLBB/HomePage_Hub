@@ -26,7 +26,7 @@ Cuối cùng, rất mong mọi người giúp đỡ Team chia sẻ bài viết n
 
 ➖➖➖➖➖➖➖➖
 
-Trang Chủ: http://Thienlonghub.com
+Trang Chủ: http://thienlonghub.com
 
 Đăng Kí: http://psp.Thienlonghub.com
 

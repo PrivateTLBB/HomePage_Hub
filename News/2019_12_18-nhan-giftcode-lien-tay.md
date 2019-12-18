@@ -36,7 +36,8 @@ Bảo Thạch Cấp 2 x 3
 ##GiftCode LikeShare Fanpage TLHUB
 - Hướng dẫn nhận GiftCode: C
 + Chư vị bằng hữu vui lòng ghé thăm và LIKE fanpage TLBBHub: https://www.facebook.com/ThienLongHUB/
-+ Sau đó Share bài viết về trang cá nhân ở chế độ công khai cùng tag 5 bạn bè: https://www.facebook.com/ThienLongHUB/
++ Sau đó Share bài viết về trang cá nhân ở chế độ công khai cùng tag 5 bạn bè: 
+https://www.facebook.com/ThienLongHUB/posts/2768674993404633
 
 - Danh sách phần thưởng trong GiftCode:
 
@@ -48,7 +49,7 @@ Thiên Linh Đan x 5
 
 ![Thiên Long Hub](https://i.imgur.com/9B6rE6V.png)
 
-Ngốc Ngốc Ngưu
+Trân Kỳ Ngưu
 
 ![Thiên Long Hub](https://i.imgur.com/0oUkPtq.png)
 

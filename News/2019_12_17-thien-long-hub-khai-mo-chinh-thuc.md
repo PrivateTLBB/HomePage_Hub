@@ -12,9 +12,8 @@ Vì TLBB đã trải qua nhiều giai đoạn phát triển nên bọn mình s�
 ##Thời gian khai mở chính thức:
   -	10:00 AM ngày 21/12/2019
   -	Sự kiện đi kèm:
-    + Nhân Đôi Kinh Nghiệm - Khai Phá Thiên Cơ: https: //link1.com
-    + Mừng Máy Chủ Mới Nhận Ngay GiftCode: https: //link2.com
-    + LikeShare Fanpage Nhận Ngay GiftCode: https: //link3.com
+    + Nhân Đôi Kinh Nghiệm - Khai Phá Thiên Cơ: http://thienlonghub.com/news/2019_12_18-su-kien-nhan-doi-kinh-nghiem.md
+    + Mừng Máy Chủ Mới Nhận GiftCode Liền Tay: http://thienlonghub.com/news/2019_12_18-nhan-giftcode-lien-tay.md
 
 ##Thông tin máy chủ:
   -	Kinh nghiệm: Exp x 1.5

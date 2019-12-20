@@ -6,8 +6,13 @@ Tứ Đại Thần Binh sức mạnh tột đỉnh qua tất cả tinh túy củ
 
 ##Nội dung sự kiện:
 Bổn môn đã từ lâu không được thấy Tứ Đại Thân Khí uy chấn võ lâm...
-Trên giang hồ đồn đoán có tứ đại thần khí: Dung Kim Lạc Nhật Đao, Thu Thuỷ Vô Ngân Kiếm, Vạc Hác Tùng Phong Phiến, Bích Hải Ngân Đào Hoàn. 
-Bất kỳ nhân vật nào sỡ hữu thanh thần khí đầu tiên mỗi loại, bổn môn mở mang tầm mắt sẽ trọng thưởng hậu hĩnh:
+Trên giang hồ đồn đoán có tứ đại thần khí:
+Dung Kim Lạc Nhật Đao, Thu Thuỷ Vô Ngân Kiếm, Vạc Hác Tùng Phong Phiến, Bích Hải Ngân Đào Hoàn
+
+![Thiên Long Hub](https://i.imgur.com/rzAPWLd.png)
+
+
+Bất kỳ nhân vật nào sỡ hữu thanh thần khí đầu tiên mỗi loại để bổn môn mở mang tầm mắt sẽ trọng thưởng hậu hĩnh:
 
 Thời Trang: Ám Dạ Bách Hợp (30 Ngày)
 

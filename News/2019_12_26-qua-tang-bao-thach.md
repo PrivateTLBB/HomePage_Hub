@@ -2,7 +2,7 @@ title:Quà Tặng Bảo Thạch
 image:https://i.imgur.com/Wiq3kS8.png
 date:26.12.2019
 
-###Kể từ ngày 26/12/2019, một lần duy nhất đổi bạc thành nguyên bảo với số lượng 400 sẽ nhận được một viên Hồng Bảo Thạch - Cấp 3
+###Kể từ ngày 26/12/2019, một lần duy nhất đổi bạc thành 400 điểm nguyên bảo sẽ nhận được một viên Hồng Bảo Thạch - Cấp 3
 
 ![Thiên Long Hub](https://i.imgur.com/yJ1ymVI.png)
 

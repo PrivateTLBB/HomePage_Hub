@@ -9,7 +9,7 @@ Yêu cầu: Có ít nhất 1 vật phẩm Thiệp Mừng Năm Mới
 
 ![Thiên Long Hub](https://i.imgur.com/4bggH0J.png)
 
-Vật Phẩm: Có thể nhận được khi đánh boss Q1,2,3 Boss dã ngoại hoặc trên shop
+Vật Phẩm: Có thể nhận được khi đánh boss Q1,2,3 Boss Dã Ngoại hoặc Thương Tiệm Nguyên Bảo
 
 ![Thiên Long Hub](https://i.imgur.com/CPiOSTD.png)
 

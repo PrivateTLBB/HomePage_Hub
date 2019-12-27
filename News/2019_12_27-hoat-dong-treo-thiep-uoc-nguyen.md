@@ -16,6 +16,8 @@ Vật Phẩm: Có thể nhận được khi đánh boss Q1,2,3 Boss Dã Ngoại 
 Phần thưởng: sau khi dùng thiệp treo lên cây ước nguyện, các bằng hữu sẽ nhận được 1 điểm tích luỹ và ngẫu nhiên nhận được một vật phẩm bất kỳ:
 Điểm tích lũy tương ứng có thể đổi thời trang và thú cưỡi tương ứng:
 
+![Thiên Long Hub](https://i.imgur.com/uNd9AFU.png)
+
 ![Thiên Long Hub](https://i.imgur.com/IVwL7Tt.png)
 
 ![Thiên Long Hub](https://i.imgur.com/xpAUyWn.png)

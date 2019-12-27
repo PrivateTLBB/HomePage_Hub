@@ -4,8 +4,8 @@ date:27.12.2019
 
 Vậy là 1 năm mới sắp đến.
 Bên cạnh những hoạt động đang diễn ra để tăng thêm không khí sôi động bổn trang cũng có 1 sự kiện  để chung vui cùng các bằng hữu.
-Sau bảo trì ngày 27/12/2019 các bằng hữu có thể đến Hứa Nguyện Thụ ở Đại Lí (160,145) Lạc Dương(160,107) Tô Châu (183,138) để tham gia hoạt động treo thiệp ước nguyện.
-Yêu cầu: Có ít nhất 1 vật phẩm Thiệp Mừng Năm Mới
+Sau bảo trì ngày 27/12/2019 đến trước bảo trì ngày 03/01/2019 các bằng hữu có thể đến Hứa Nguyện Thụ ở Đại Lí (160,145) Lạc Dương(160,107) Tô Châu (183,138) để tham gia hoạt động treo thiệp ước nguyện.
+Khi đến ước nguyện yêu cầu có ít nhất 1 vật phẩm Thiệp Mừng Năm Mới
 
 ![Thiên Long Hub](https://i.imgur.com/4bggH0J.png)
 

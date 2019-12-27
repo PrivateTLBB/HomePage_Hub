@@ -9,7 +9,7 @@ Khi đến ước nguyện yêu cầu có ít nhất 1 vật phẩm Thiệp Mừ
 
 ![Thiên Long Hub](https://i.imgur.com/4bggH0J.png)
 
-Vật Phẩm: Có thể nhận được khi đánh boss Q1,2,3 Boss Dã Ngoại hoặc Thương Tiệm Nguyên Bảo
+Vật Phẩm: Có thể nhận được khi đánh boss Q1,2,3, Boss Dã Ngoại hoặc Thương Tiệm Nguyên Bảo
 
 ![Thiên Long Hub](https://i.imgur.com/CPiOSTD.png)
 

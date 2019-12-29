@@ -1,6 +1,6 @@
 title:Cơn Sốt Bảo Thạch
 image:https://i.imgur.com/EmOzxeR.jpg
-date:31.12.2019
+date:29.12.2019
 
 Cùng hoà với tình hình chiến sự đang nóng dần ở máy chủ TLHUB, bổn môn xin được góp công thổi lửa vào tình hình chung.
 Sự kiện giảm giá toàn bộ Bảo Thạch sẽ triển khai trên toàn cõi máy chủ, tạo thêm điều kiện cho các quý bằng hữu nâng cao sức mạnh nhân vật!

@@ -6,7 +6,6 @@ Cùng hoà với tình hình chiến sự đang nóng dần ở máy chủ TLHUB
 Sự kiện giảm giá toàn bộ Bảo Thạch sẽ triển khai trên toàn cõi máy chủ, tạo thêm điều kiện cho các quý bằng hữu nâng cao sức mạnh nhân vật!
 
 ###Nội Dung:
-
 Giảm giá bảo thạch: 30%
 
 Thời gian diễn ra: 31/12/2019

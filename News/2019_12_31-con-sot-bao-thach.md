@@ -10,7 +10,7 @@ Giảm giá bảo thạch: 30%
 
 Thời gian diễn ra: 31/12/2019
 
-Thời gian kết thúc: 01/01/2019
+Thời gian kết thúc: 01/01/2020
 
 Trong thời gian diễn ra giảm giá bảo thạch, quý bằng hữu có thể tìm đến Thương Tiệm Nguyên Bảo.
 Các phòng Bảo Thạch Lạc Dương, Đại Lý và Tô Châu đều đã đồng loại giảm 30% giá bán.

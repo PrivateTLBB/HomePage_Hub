@@ -1,6 +1,6 @@
 title:Khép Lại Cơn Sốt Bảo Thạch
 image:https://i.imgur.com/iK3E3RJ.jpg
-date:02.01.2020
+date:01.01.2020
 
 Như vậy, sau khoảng thời gian 48h khuyến mãi vô cùng hấp dẫn. Bổn môn xin phép được khép lại sự kiện Cơn Sốt Bảo Thạch
 

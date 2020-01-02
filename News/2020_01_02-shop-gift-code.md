@@ -2,7 +2,7 @@ title :SHOP GIFTCODE TLBB HUB
 image :https://i.imgur.com/t9bb79b.png
 date  :02.01.2020
 
-###SHOP GIFTCODE
+### SHOP GIFTCODE
 
 Chào mừng các bằng hữu.
 
@@ -27,12 +27,10 @@ Lưu ý:   -     GiftCode tháng chỉ có thể mua tối đa tổng cộng 100
  
  
 
-Trang Chủ: http://thienlonghub.com/
+### Trang Chủ: http://thienlonghub.com/
 
-Đăng Ký: http://psp.thienlonghub.com/register/
+### Đăng Ký: http://psp.thienlonghub.com/register/
 
-Tải Game: http://thienlonghub.com/Download/
+### Tải Game: http://thienlonghub.com/Download/
 
-Fanpage: https://www.facebook.com/ThienLongHUB/
-
-Group FB: https://www.facebook.com/groups/GroupThienLongHUB/
+### Group FB: https://www.facebook.com/groups/GroupThienLongHUB/

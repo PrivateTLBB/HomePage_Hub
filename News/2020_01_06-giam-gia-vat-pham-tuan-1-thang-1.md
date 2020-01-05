@@ -3,8 +3,9 @@ image :https://i.imgur.com/Cm5lwkw.jpg
 date  :2020/01/06
 
 Đây là tuần 1 của tháng 1, bổn môn mạng phép triển khai giảm giá một số mặt hàng định kỳ!
-Thời gian diễn ra: 06/01/2019 - 12/01/2019
-Giảm giá vật phẩm: 30%
+
+###Thời gian diễn ra: 06/01/2019 - 12/01/2019
+###Giảm giá vật phẩm: 30%
 
 Danh sách các vật phẩm được giảm giá:
 ![Thiên Long Hub](https://i.imgur.com/s5HLWSV.png)

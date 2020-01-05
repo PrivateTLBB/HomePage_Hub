@@ -7,13 +7,13 @@ date  :2020/01/06
 #### Thời gian diễn ra: 06/01/2019 - 12/01/2019
 #### Giảm giá vật phẩm: 30%
 
-#### Danh sách các vật phẩm được giảm giá:
+
 ![Thiên Long Hub](https://i.imgur.com/s5HLWSV.png)
 
-#### Các vật phẩm được giảm 30% so với giá gốc
 ![Thiên Long Hub](https://i.imgur.com/6L2Kx7q.png)
 
-##Địa Chỉ Liên Quan
+
+###Địa Chỉ Liên Quan
 
 #### Trang Chủ: http://thienlonghub.com/
 

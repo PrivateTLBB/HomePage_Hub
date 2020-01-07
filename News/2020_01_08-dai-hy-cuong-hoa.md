@@ -5,7 +5,7 @@ date  :2020/01/08
 #### Trong giang hồ đồn đoán khi cường hóa trang bị, sức mạnh của nhân vật sẽ tăng lên vô biên.
 #### Biết được mong muốn này đang lan rộng trong giang hồ. Bổn môn xin khai mở sự kiện Đại Hỷ Cường Hóa.
 #### Phong Hồ Tử ở Lạc Dương và Âu Dã Tử ổ Tô Châu mỗi ngày sẽ trao tặng nhiều đạo cụ cường hoá cho quý bằng hữu.
-#### Ngoài ra, trong thời gian diễn ra sự kiện, nếu thất bại cũng sẽ không bị giảm cấp cường hóa của trang bị.
+#### Ngoài ra, trong thời gian diễn ra sự kiện, cường hóa nếu thất bại cũng sẽ không bị giảm cấp cường hóa của trang bị.
 
 #### Thời gian diễn ra: 06:00 - 08/01/2020
 #### Thời gian kết thúc: 06:00 - 10/01/2020

@@ -8,8 +8,8 @@ date  :2020/01/16
 #### Các trân thú thời gian qua đã chịu nhiều khó khăn, nay sẽ được tăng tỷ lệ thành công lên Ngộ Tính.
 
 #### Thông tin sự kiện:
-#### Thời gian bắt đầu: 6h00 - 16/01/2010
-#### Thời gian kết thúc: 6h00 - 18/01/2010
+#### Thời gian bắt đầu: 6h00 - 16/01/2020
+#### Thời gian kết thúc: 6h00 - 18/01/2020
 #### Giảm giá trân thú ở Thương Tiệm Nguyên Bảo
 #### Thời gian sinh sản của trân thú: 30 phút
 #### Tăng khả năng lên ngộ tính của trân thú.

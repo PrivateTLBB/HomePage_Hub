@@ -10,7 +10,7 @@ date  :2020/01/16
 #### Thông tin sự kiện:
 #### Thời gian bắt đầu: 6h00 - 16/01/2010
 #### Thời gian kết thúc: 6h00 - 18/01/2010
-#### Giảm giá trân thú còn 20%
+#### Giảm giá trân thú ở Thương Tiệm Nguyên Bảo
 #### Thời gian sinh sản của trân thú: 30 phút
 #### Tăng khả năng lên ngộ tính của trân thú.
 

@@ -15,8 +15,8 @@ date  :2020/01/22
 #### Nếu như đây là đầu các hạ tham gia sự kiện Quà Tặng Bảo Thạch, các mốc quy đổi nguyên bảo của nhân vật sẽ diễn ra theo thứ tự.
 #### -
 #### Quà tặng bảo thạch sẽ được chia làm các mốc như sau:
-#### ☑ Lần đầu: Khi quy đổi 400 điểm nguyên bảo - Hồng Bảo Thạch Cấp 3
-#### ☑ Lần hai: Khi quy đổi 1666 điểm nguyên bảo - Phiếu Đổi Bảo Thạch Cấp 4
+#### ☑ Lần đầu: Quy đổi 400 điểm nguyên bảo - Hồng Bảo Thạch Cấp 3
+#### ☑ Lần hai: Quy đổi 1666 điểm nguyên bảo - Phiếu Đổi Bảo Thạch Cấp 4
 #### -
 #### Ngoài ra, Tôn Tiến Bảo cũng có thể cho bạn biết đã từng nhận những mốc bảo thạch nào.
 #### -

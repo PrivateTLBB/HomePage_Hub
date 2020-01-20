@@ -10,7 +10,7 @@ date  :2020/01/22
 #### Tỉ lệ khuyến mãi: 25%
 #### -
 #### Ví dụ: Trong ngày 22/01/2020, nếu nạp 100.000 VND bằng hữu sẽ nhận được 125.000 Bạc (thay vì chỉ được 100.000 Bạc như bình thường).
-#### -
+
 ###Địa Chỉ Liên Quan
 #### Trang Chủ: http://thienlonghub.com/
 #### Đăng Ký: http://psp.thienlonghub.com/register/

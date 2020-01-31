@@ -4,7 +4,7 @@ date  :02.01.2020
 
 #### Chào mừng các bằng hữu.
 #### Để góp phần hỗ trợ các bằng hữu trải nghiệm dễ dàng hơn trong quá trình hành tẩu bổn trang xin ra mắt Shop GiftCode hàng tháng.
-
+#### -
 #### Gift Cơ Bản
 #### ☑ 01 Phiếu Đổi Bảo Thạch Cấp 4
 #### ☑ 01 Nhiễm Phát Tễ

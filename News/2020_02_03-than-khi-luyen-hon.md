@@ -15,7 +15,7 @@ date  :03.02.2020
 #### Thần khí sau khi được Luyện Hồn sẽ thăng cấp lên 86 hoặc 96, biến đổi về hình dạng và thay đổi chỉ số thuộc tính. 
 #### Đặc biệt nhất là bằng hữu có thể thay đổi các chỉ số thuộc tính liên tục cho đến mức mà các vị ưng ý. 
 #### Để làm được thao tác này, mỗi lần thay đổi thuộc tính bằng hữu cần có 5 Thần Binh Phù tùy theo đẳng cấp thần khí.
-
+#### -
 #### Địa Chỉ Liên Quan
 #### Trang Chủ: http://thienlonghub.com/
 #### Đăng Ký: http://psp.thienlonghub.com/register/

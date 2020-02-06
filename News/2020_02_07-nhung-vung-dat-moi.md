@@ -2,11 +2,11 @@ title :Những Vùng Đất Mới
 image :https://i.imgur.com/khDr0Jw.jpg
 date  :07.02.2020
 
-#### -Dù đã chìm sâu trong quên lãng, nhưng dạo gần đây thông tin về 2 vùng đất mới xuất hiện trong TLBB đã làm dậy sống anh hùng trong thiên hạ đi tìm khai phá.
-#### -Sau thời gian dài chờ đợi, 2 vùng đất mới đã chính thức lộ diện: Thánh Hoả Cung và Côn Lôn Sơn
+#### Dù đã chìm sâu trong quên lãng, nhưng dạo gần đây thông tin về 2 vùng đất mới xuất hiện trong TLBB đã làm dậy sống anh hùng trong thiên hạ đi tìm khai phá.
+#### Sau thời gian dài chờ đợi, 2 vùng đất mới đã chính thức lộ diện: Thánh Hoả Cung và Côn Lôn Sơn
 
-#### -Thánh Hoả Cung
-#### -Trường cảnh: Lâu Lan >> Đại Uyển >> Tát Mã Nhĩ Hãn >> Thánh Hoả Cung
+#### Thánh Hoả Cung
+#### Trường cảnh: Lâu Lan >> Đại Uyển >> Tát Mã Nhĩ Hãn >> Thánh Hoả Cung
 
 #### -
 ![](https://i.imgur.com/A8Gqk1L.jpg)
@@ -18,8 +18,8 @@ date  :07.02.2020
 ![](https://i.imgur.com/cngqm5Z.jpg)
 #### -
 
-#### -Côn Lôn Sơn
-#### -Trường cảnh: Lâu Lan >> Tháp Lý Mộc >> Côn Lôn Sơn
+#### Côn Lôn Sơn
+#### Trường cảnh: Lâu Lan >> Tháp Lý Mộc >> Côn Lôn Sơn
 
 #### -
 ![](https://i.imgur.com/ESOuYpP.jpg)

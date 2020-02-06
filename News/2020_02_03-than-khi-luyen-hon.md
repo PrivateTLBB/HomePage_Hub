@@ -2,6 +2,10 @@ title :Thần Khí Luyện Hồn
 image :https://i.imgur.com/ohttTe7.jpg
 date  :03.02.2020
 
+#### -
+![](https://i.imgur.com/ZKzisa3.jpg)
+#### -
+
 #### Theo lời đại tông sư Âu Trị Vu [266; 143] tại Tô Châu, tất cả thần binh lợi khí trên thế gian đều ẩn chứa một linh hồn bất diệt. 
 #### Nếu bất cứ ai có thể giải phong ấn linh hồn, hay còn gọi là Luyện Hồn, thần khí của họ chắc chắn sẽ mạnh mẽ hơn gấp bội lần và điểm thuộc tính cũng tăng lên đáng kể.
 

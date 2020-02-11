@@ -8,7 +8,7 @@ date  :11.02.2020
 #### Giới thiệu chung:
 #### Hoạt động diễn ra từ 12/02 trên toàn cõi Thiên Long HUB
 #### Cấp nhân vật nhận Lễ bao tân thủ: Từ cấp 1 đến cấp 60
-#### NPC liên quan: Cung Thái Vân, Đại Lý (172,122).
+#### NPC liên quan: Cung Thái Vân, Đại Lý (171,123)
 #### -
 ![](https://i.imgur.com/1j793HX.png)
 #### -

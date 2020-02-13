@@ -11,7 +11,7 @@ Bổn Môn xin thông báo Sự kiện Nhân Đôi Kinh Nghiệm - Khai Phá Thi
 #### - Nhân đôi kinh nghiệm: Exp X 200%
 #### - Mở giới hạn cấp độ: 119
 #### - Thời điểm diễn ra: 06:00 - 14/02/2020
-#### - Thời điểm kết thúc: 06:00 - 14/02/2020
+#### - Thời điểm kết thúc: 06:00 - 17/02/2020
 
 #### -
 #### Địa Chỉ Liên Quan

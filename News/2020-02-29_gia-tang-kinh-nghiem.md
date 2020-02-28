@@ -1,6 +1,6 @@
 title:Gia Tang Kinh Nghiệm
 image:https://i.imgur.com/3qZnmQ4.jpg
-date:14.02.2020
+date:29.02.2020
 
 ![Thiên Long Hub](https://i.imgur.com/3qZnmQ4.jpg)
 

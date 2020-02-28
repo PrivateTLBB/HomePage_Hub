@@ -1,6 +1,6 @@
 title:Thương Nhân Gặp Lợi
 image:https://i.imgur.com/f32P2DX.jpg
-date:30.02.2020
+date:01.03.2020
 
 Trong những ngày cuối tháng hai, trong trò chơi có nhiều biến cố không đáng có. Nhận thấy tình hình kinh tế trong máy chủ đang dần đà suy kiệt, bổn môn sẽ tiếp tục gia tăng lợi tức thương nhân trong ngày đầu tháng 3.
 

@@ -1,4 +1,4 @@
-title:Gia Tang Kinh Nghiệm
+title:Gia Tăng Kinh Nghiệm
 image:https://i.imgur.com/3qZnmQ4.jpg
 date:29.02.2020
 

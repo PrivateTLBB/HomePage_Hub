@@ -13,7 +13,7 @@ date  :02.03.2020
 #### ☑ Thời Trang: Ngọc Vũ Thanh Trù (3 Ngày)
 #### ☑ Thú Cưỡi: Thiên Mã (3 Ngày)
 #### ☑ Thiên Cang Cường Hoá Lộ
-#### ☑ Kim Cương Sa
+#### ☑ Kim Cương Toả
 #### ☑ Cao Cấp Khắc Danh Phù
 
 #### -
@@ -22,7 +22,7 @@ date  :02.03.2020
 #### ☑ Thời Trang: Ngọc Vũ Thanh Trù (15 Ngày)
 #### ☑ Thú Cưỡi: Thiên Mã (15 Ngày)
 #### ☑ Thiên Cang Cường Hoá Lộ
-#### ☑ Kim Cương Sa
+#### ☑ Kim Cương Toả
 #### ☑ Cao Cấp Khắc Danh Phù
 
 #### -
@@ -32,7 +32,7 @@ date  :02.03.2020
 #### ☑ Thú Cưỡi: Thiên Mã (15 Ngày)
 #### ☑ Trân Thú Bảo Hạp
 #### ☑ Thiên Cang Cường Hoá Lộ x 2
-#### ☑ Kim Cương Sa x 2
+#### ☑ Kim Cương Toả x 2
 #### ☑ Cao Cấp Khắc Danh Phù x 2
 
 #### ☑ Trân Thú Bảo Hạp là vật phẩm mới của GiftShop Tháng 3, khi mở ra sẽ nhận được 1 trong 3 loại trân thú sau:

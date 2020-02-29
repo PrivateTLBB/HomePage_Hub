@@ -34,8 +34,8 @@ date  :02.03.2020
 #### ☑ Thiên Cang Cường Hoá Lộ x 2
 #### ☑ Kim Cương Toả x 2
 #### ☑ Cao Cấp Khắc Danh Phù x 2
-
-#### ☑ Trân Thú Bảo Hạp là vật phẩm mới của GiftShop Tháng 3, khi mở ra sẽ nhận được 1 trong 3 loại trân thú sau:
+#### -
+#### Chú ý: Trân Thú Bảo Hạp là vật phẩm mới của GiftShop Tháng 3, khi mở ra sẽ nhận được 1 trong 3 loại trân thú sau:
 ![](https://i.imgur.com/8OAkxMx.png)
 ![](https://i.imgur.com/b8B4OJB.png)
 ![](https://i.imgur.com/w9HFkde.png)

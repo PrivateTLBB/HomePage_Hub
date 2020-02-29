@@ -8,7 +8,7 @@ date  :02.03.2020
 
 #### Thời gian bắt đầu mở bán: 02/03/2020
 
-#### Gift Miễn Phí
+#### Gift Miễn Phí: TLHUBMIENPHIGIFTT3
 #### ☑ Phiếu Đổi Bảo Thạch Cấp 3
 #### ☑ Thời Trang: Ngọc Vũ Thanh Trù (3 Ngày)
 #### ☑ Thú Cưỡi: Thiên Mã (3 Ngày)

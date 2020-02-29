@@ -6,12 +6,12 @@ date  :02.03.2020
 #### Để góp phần hỗ trợ các bằng hữu trải nghiệm dễ dàng hơn trong quá trình hành tẩu bổn trang xin ra mắt Shop GiftCode hàng tháng.
 #### -
 
-#### Thời gian bắt đầu mở bán: 01/03/2020
+#### Thời gian bắt đầu mở bán: 02/03/2020
 
 #### Gift Miễn Phí
 #### ☑ Phiếu Đổi Bảo Thạch Cấp 3
 #### ☑ Thời Trang: Ngọc Vũ Thanh Trù (3 Ngày)
-#### ☑ Kỵ Thuật: Ngạo Tuyết Linh Sư (3 Ngày)
+#### ☑ Thú Cưỡi: Thiên Mã (3 Ngày)
 #### ☑ Thiên Cang Cường Hoá Lộ
 #### ☑ Kim Cương Sa
 #### ☑ Cao Cấp Khắc Danh Phù
@@ -20,7 +20,7 @@ date  :02.03.2020
 #### Gift Cơ Bản
 #### ☑ Phiếu Đổi Bảo Thạch Cấp 4
 #### ☑ Thời Trang: Ngọc Vũ Thanh Trù (15 Ngày)
-#### ☑ Kỵ Thuật: Ngạo Tuyết Linh Sư (15 Ngày)
+#### ☑ Thú Cưỡi: Thiên Mã (15 Ngày)
 #### ☑ Thiên Cang Cường Hoá Lộ
 #### ☑ Kim Cương Sa
 #### ☑ Cao Cấp Khắc Danh Phù
@@ -29,11 +29,16 @@ date  :02.03.2020
 #### Gift Cao Cấp
 #### ☑ Phiếu Đổi Bảo Thạch Cấp 4 x 2
 #### ☑ Thời Trang: Ngọc Vũ Thanh Trù (15 Ngày)
-#### ☑ Kỵ Thuật: Ngạo Tuyết Linh Sư (15 Ngày)
-#### ☑ Trứng Thú: Hùng Miêu Song Hiệp
+#### ☑ Thú Cưỡi: Thiên Mã (15 Ngày)
+#### ☑ Trân Thú Bảo Hạp
 #### ☑ Thiên Cang Cường Hoá Lộ x 2
 #### ☑ Kim Cương Sa x 2
 #### ☑ Cao Cấp Khắc Danh Phù x 2
+
+#### ☑ Trân Thú Bảo Hạp là vật phẩm mới của GiftShop Tháng 3, khi mở ra sẽ nhận được 1 trong 3 loại trân thú sau:
+![](https://i.imgur.com/8OAkxMx.png)
+![](https://i.imgur.com/b8B4OJB.png)
+![](https://i.imgur.com/w9HFkde.png)
 
 #### Để sở hữu được những GiftCode đầy giá trị này bằng hữu hãy vui lòng đăng nhập trang quản lý tài khoản.
 ![](https://i.imgur.com/GBVpGKi.png)

@@ -1,5 +1,5 @@
 title :Hoàng Ma Thú Nổi Dậy
-image :https://i.imgur.com/9hHlP4Z.png
+image :https://i.imgur.com/Ggej7Rl.png
 date  :2020.03.13
 
 #### Yến Biệt Thu tại Yến Vương Cổ Mộ đột nhiên phát hiện rất nhiều Hoàng Ma Thú đã xuất hiện tại đây, các anh hùng bằng hữu hãy đến đó do thám xem sao!

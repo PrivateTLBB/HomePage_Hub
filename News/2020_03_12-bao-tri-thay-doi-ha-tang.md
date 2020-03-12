@@ -2,8 +2,8 @@ title :Bảo Dưỡng Máy Chủ
 image :https://i.imgur.com/ZOX5qFB.jpg
 date  :2020.03.12
 
-#### Thời gian bảo trì: 08:00 - 12/03/2020
-#### Hoàn tất bảo trì: 09:00 - 12/03/2020
+#### Thời gian bảo trì: 20:00 - 12/03/2020
+#### Hoàn tất bảo trì: 21:00 - 12/03/2020
 #### -
 #### Do yêu cầu thay đổi hạ tầng máy chủ từ nhà cung cấp, TLHUB lưu ý đến các quý đồng môn thời gian bảo trì đột xuất này.
 #### -

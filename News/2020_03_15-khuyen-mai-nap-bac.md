@@ -1,5 +1,5 @@
 title :Khuyến Mãi Nạp Bạc
-image :https://i.imgur.com/8Vthbib.gif
+image :https://i.imgur.com/K65N8dF.png
 date  :2020/03/15
 
 #### Tiếp tục tạo thêm nhiều niềm vui mới cho bằng hữu gần xa.

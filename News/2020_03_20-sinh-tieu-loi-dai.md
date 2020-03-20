@@ -6,6 +6,9 @@ date  :2020/03/20
 #### Để có thể tham gia vào sự kiện này, yêu cầu các bằng hữu phải tìm được Sinh Tiêu Thỉnh Thiệp.
 #### Vậy thì Sinh Tiêu Thỉnh Thiệp sẽ xuất hiện tại các hoạt động nào?
 
+#### Thời gian diễn ra sự kiện: 6:00 - 21/03/2020
+#### Thời gian kết thúc sự kiện: 6:00 - 23/03/2020
+
 #### ☑ Đăng Nhập Được Quà:
 #### Diễn ra cùng thời gian với Sinh Tiêu Lôi Đài là sự kiện Đăng Nhập Được Quà, đây là cách đơn giản nhất để có được Sinh Tiêu Thỉnh Thiệp.
 #### Mỗi ngày khi đăng nhập vào trò chơi, các bằng hữu chỉ cần tìm đến Nữ Quý Nhân TLHUB là có thể nhân được 3 cái Sinh Tiêu Thỉnh Thiệp rồi.

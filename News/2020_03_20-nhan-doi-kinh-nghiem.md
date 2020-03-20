@@ -1,6 +1,6 @@
 title:Nhân Đôi Kinh Nghiệm
 image:https://i.imgur.com/3qZnmQ4.jpg
-date:20.03.2020
+date:20/03/2020
 
 ![Thiên Long Hub](https://i.imgur.com/3qZnmQ4.jpg)
 

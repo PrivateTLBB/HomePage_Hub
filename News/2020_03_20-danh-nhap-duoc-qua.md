@@ -2,7 +2,7 @@ title :Đăng Nhập Được Quà
 image :https://i.imgur.com/MsfX6Nl.png
 date  :2020/03/20
 
-#### Hoà vào không khí nhộn nhịp của Tết Nguyên Đán.
+#### Hoà vào không khí nhộn nhịp của dịp kỷ niệm 3 tháng TLBHUB hoạt động!
 #### Nữ quý nhân hỗ trợ của Thiên Long Hub sẽ trao tặng cho mọi người những món quà vô cùng giá trị khi đăng nhập vào trò chơi.
 #### -
 ![Thiên Long Hub](https://i.imgur.com/OOs7M5a.png)

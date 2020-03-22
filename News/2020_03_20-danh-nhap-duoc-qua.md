@@ -8,7 +8,7 @@ date  :2020/03/20
 ![Thiên Long Hub](https://i.imgur.com/OOs7M5a.png)
 #### -
 #### Thời gian diễn ra sự kiện: 6:00 - 21/03/2020
-#### Thời gian kết thúc sự kiện: 6:00 - 23/03/2020
+#### Thời gian kết thúc sự kiện: 23:59 - 23/03/2020
 #### -
 #### Danh sách vật phẩm: 
 #### ☑ Sinh Tiêu Thỉnh Thiệp x 3

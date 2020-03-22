@@ -8,7 +8,7 @@ date  :2020/03/20
 #### Ngoài ra, trong thời gian diễn ra sự kiện, cường hóa nếu thất bại cũng sẽ không bị giảm cấp cường hóa của trang bị.
 
 #### Thời gian diễn ra: 06:00 - 21/03/2020
-#### Thời gian kết thúc: 06:00 - 23/03/2020
+#### Thời gian kết thúc: 23:59 - 23/03/2020
 #### Khi cường hoá trang bị, nếu thất bại cũng sẽ không bị giảm cấp cường hóa của trang bị.
 
 

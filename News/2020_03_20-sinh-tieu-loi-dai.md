@@ -7,7 +7,7 @@ date  :2020/03/20
 #### Vậy thì Sinh Tiêu Thỉnh Thiệp sẽ xuất hiện tại các hoạt động nào?
 
 #### Thời gian diễn ra sự kiện: 6:00 - 21/03/2020
-#### Thời gian kết thúc sự kiện: 6:00 - 23/03/2020
+#### Thời gian kết thúc sự kiện: 23:59 - 23/03/2020
 
 #### ☑ Đăng Nhập Được Quà:
 #### Diễn ra cùng thời gian với Sinh Tiêu Lôi Đài là sự kiện Đăng Nhập Được Quà, đây là cách đơn giản nhất để có được Sinh Tiêu Thỉnh Thiệp.
